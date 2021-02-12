@@ -1,5 +1,5 @@
 <p align="center">
-  ![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
+  <img src="https://github.com/Gaboso/Gaboso/blob/master/github_cover.png" alt="Gaboso" />
 </p>
 
 ```js
