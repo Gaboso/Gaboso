@@ -1,4 +1,6 @@
-![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
+<p align="center">
+  ![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
+</p>
 
 ```js
 export const Gaboso = () => {
