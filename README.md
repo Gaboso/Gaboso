@@ -14,7 +14,7 @@ export const Gaboso = () => {
 
   const hobby = {
       soccerTeam: 'Cruzeiro',
-      tvSerie: 'Community',
+      tvSeries: 'Community',
       movie: 'Back to the Future',
       game: 'The Division 2',
   };
