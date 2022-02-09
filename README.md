@@ -6,8 +6,8 @@
 export const Gaboso = () => {
   const basic = {
     name: 'Gabriel de Carvalho',
-    city: 'Floripa',
-    role: 'Software Engineer',
+    city: 'Oporto',
+    role: 'Software Developer',
   };
 
   const tech = ['Java', 'Javascript', 'React', 'React Native', 'Docker', 'Spring Boot'];
@@ -16,7 +16,7 @@ export const Gaboso = () => {
       soccerTeam: 'Cruzeiro',
       tvSeries: 'Community',
       movie: 'Back to the Future',
-      game: 'The Division 2',
+      game: 'Sniper Elite 4',
   };
 
   return {basic, tech, hobby};
